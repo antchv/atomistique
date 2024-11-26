@@ -1,0 +1,54 @@
+﻿  fcts.cpp
+C:\Users\33695\Downloads\fcts.cpp(4,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'fcts.h' : No such file or directory
+  methode.cpp
+C:\Users\33695\Downloads\methode.cpp(4,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'methode.h' : No such file or directory
+  util.cpp
+C:\Users\33695\Downloads\util.cpp(9,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'util.h' : No such file or directory
+  dynamique moléculaire.cpp
+C:\Users\33695\Desktop\M2\atomistique\dynamique moléculaire\dynamique moléculaire.cpp(10,28): error C3861: 'choixSimu' : identificateur introuvable
+C:\Users\33695\Desktop\M2\atomistique\dynamique moléculaire\dynamique moléculaire.cpp(19,19): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\33695\Desktop\M2\atomistique\dynamique moléculaire\dynamique moléculaire.cpp(20,18): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\33695\Desktop\M2\atomistique\dynamique moléculaire\dynamique moléculaire.cpp(21,15): error C3861: 'compteLigneFichier' : identificateur introuvable
+C:\Users\33695\Desktop\M2\atomistique\dynamique moléculaire\dynamique moléculaire.cpp(22,22): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\33695\Desktop\M2\atomistique\dynamique moléculaire\dynamique moléculaire.cpp(23,22): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\33695\Desktop\M2\atomistique\dynamique moléculaire\dynamique moléculaire.cpp(42,41): error C3861: 'EmLJ' : identificateur introuvable
+C:\Users\33695\Desktop\M2\atomistique\dynamique moléculaire\dynamique moléculaire.cpp(79,17): error C3861: 'FLJX' : identificateur introuvable
+C:\Users\33695\Desktop\M2\atomistique\dynamique moléculaire\dynamique moléculaire.cpp(80,17): error C3861: 'FLJY' : identificateur introuvable
+C:\Users\33695\Desktop\M2\atomistique\dynamique moléculaire\dynamique moléculaire.cpp(83,19): error C3861: 'velocityVerletQ' : identificateur introuvable
+C:\Users\33695\Desktop\M2\atomistique\dynamique moléculaire\dynamique moléculaire.cpp(84,19): error C3861: 'velocityVerletQ' : identificateur introuvable
+C:\Users\33695\Desktop\M2\atomistique\dynamique moléculaire\dynamique moléculaire.cpp(88,21): error C3861: 'FLJX' : identificateur introuvable
+C:\Users\33695\Desktop\M2\atomistique\dynamique moléculaire\dynamique moléculaire.cpp(89,21): error C3861: 'FLJY' : identificateur introuvable
+C:\Users\33695\Desktop\M2\atomistique\dynamique moléculaire\dynamique moléculaire.cpp(92,20): error C3861: 'velocityVerletQp' : identificateur introuvable
+C:\Users\33695\Desktop\M2\atomistique\dynamique moléculaire\dynamique moléculaire.cpp(93,20): error C3861: 'velocityVerletQp' : identificateur introuvable
+C:\Users\33695\Desktop\M2\atomistique\dynamique moléculaire\dynamique moléculaire.cpp(96,32): warning C4244: 'argument' : conversion de '_Ty' en 'const unsigned __int64', perte possible de données
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\33695\Desktop\M2\atomistique\dynamique moléculaire\dynamique moléculaire.cpp(96,49): warning C4244: 'argument' : conversion de '_Ty' en 'const unsigned __int64', perte possible de données
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\33695\Desktop\M2\atomistique\dynamique moléculaire\dynamique moléculaire.cpp(96,67): warning C4244: 'argument' : conversion de '_Ty' en 'const unsigned __int64', perte possible de données
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\33695\Desktop\M2\atomistique\dynamique moléculaire\dynamique moléculaire.cpp(96,85): warning C4244: 'argument' : conversion de '_Ty' en 'const unsigned __int64', perte possible de données
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\33695\Desktop\M2\atomistique\dynamique moléculaire\dynamique moléculaire.cpp(96,16): error C3861: 'EmLJ' : identificateur introuvable
+C:\Users\33695\Desktop\M2\atomistique\dynamique moléculaire\dynamique moléculaire.cpp(100,23): warning C4244: 'initialisation' : conversion de '_Ty' en 'int', perte possible de données
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\33695\Desktop\M2\atomistique\dynamique moléculaire\dynamique moléculaire.cpp(103,11): error C3861: 'EmLJ' : identificateur introuvable
+C:\Users\33695\Desktop\M2\atomistique\dynamique moléculaire\dynamique moléculaire.cpp(108,2): error C3861: 'ecrirePos' : identificateur introuvable
+C:\Users\33695\Desktop\M2\atomistique\dynamique moléculaire\dynamique moléculaire.cpp(109,2): error C3861: 'ecrirePos' : identificateur introuvable
+C:\Users\33695\Desktop\M2\atomistique\dynamique moléculaire\dynamique moléculaire.cpp(110,2): error C3861: 'ecrireEnNu' : identificateur introuvable
+C:\Users\33695\Desktop\M2\atomistique\dynamique moléculaire\dynamique moléculaire.cpp(111,2): error C3861: 'ecrireEnNu' : identificateur introuvable
+  Génération de code en cours...
